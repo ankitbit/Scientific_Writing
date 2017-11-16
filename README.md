@@ -11,3 +11,7 @@
 
 #### Issues-
 * [Table appearing after the text](https://tex.stackexchange.com/questions/79639/why-is-my-table-appearing-before-my-text)
+
+
+#### R Studio and LaTeX
+* [LaTeX tables in R](https://stackoverflow.com/questions/5465314/tools-for-making-latex-tables-in-r)
