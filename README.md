@@ -1,6 +1,7 @@
 # Scientific_Writing
 
 [Tutorial on Scientific Writing](http://www.cs.technion.ac.il/~yogi/Courses/CS-Scientific-Writing/examples/simple/simple.htm)
+[Technion-Israel](http://www.cs.technion.ac.il/~yogi/Courses/CS-Scientific-Writing/index.htm)
 
 [University of Leeds](http://www1.maths.leeds.ac.uk/LaTeX/)- LaTeX for Beginners
 
